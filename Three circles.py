@@ -1,0 +1,10 @@
+from turtle import *
+circle(20)
+penup()
+goto(60, (-10))
+pendown()
+circle(30)
+penup()
+goto(150, (-30))
+pendown()
+circle(50)

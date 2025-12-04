@@ -1,0 +1,11 @@
+from turtle import *
+color('#4ca4eb')
+begin_fill()
+left(120)
+forward(100)
+left(120)
+forward(100)
+left(90)
+circle(100, 60, None)
+end_fill()
+hideturtle()

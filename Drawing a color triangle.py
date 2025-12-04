@@ -1,0 +1,10 @@
+from turtle import *
+pencolor('red')
+forward(100)
+left(120)
+pencolor('green')
+forward(100)
+left(120)
+pencolor('blue')
+forward(100)
+left(120)
